@@ -10,11 +10,5 @@
     //create variable to check if variable is <= limit
     //if every element in array pass test return true
     //else false
-    function smallEnough(a, limit){
-        let aCheck = (i) => i <= limit;
-        if(a.every(aCheck)){
-          return true
-        }else{
-          return false
-        }
-      }
+
+      smallEnough = (a,limit) => a.every(x => x <= limit)
