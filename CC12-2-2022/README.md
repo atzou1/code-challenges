@@ -1,0 +1,2 @@
+# code-challenges
+This challenge creates a function that reformats DNA (composed of four nucleic acid bases Guanine ('G'), Cytosine ('C'), Adenine ('A'), and Thymine ('T').) into RNA (replaces Thymine with Uracil('U').
